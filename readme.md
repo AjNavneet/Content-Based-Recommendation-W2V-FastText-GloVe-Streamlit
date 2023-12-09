@@ -1,6 +1,7 @@
-# Content-based Recommendation System using w2v, fasttext, glove and Streamlit
+# Content-based Recommendation System using W2V, fasttext, glove and Streamlit
 
 ## Business Context
+
 Imagine you want to buy a gift for your dear ones. You opened an eCommerce website on your phone and started searching for the gift. After a few minutes, you find a section that shows very similar gifts you wanted. Now you must be thinking, how do they know similar items based on one thing? Most platforms use the Recommendation system at the backend to show you the best items based on your search history. There are several choices in the digital market world, which are somehow too overwhelming for the user to choose from. There is always a need to filter and prioritize the relevant items for each user to engage the customers with the platform, which eventually impacts the revenue. Content-based filtering is one of the most used techniques to personalize the content for each user. It uses previous actions and feedback about users' liking to provide them with similar recommendations.
 
 ---
@@ -53,22 +54,6 @@ The `src` folder is the heart of the project and contains all the modularized co
 - product_recommendation_streamlit.py
 
 ---
-
-## Key Concepts Explored
-1. Content-Based Recommender System
-2. Converting Text to Features
-3. Understanding Manhattan, Euclidean, Cosine Similarity
-4. Ranking the Recommendations
-5. Recommendations using Count Vectorizer
-6. Recommendations using TFIDF Vectorizer
-7. Recommendations using Word2Vec
-8. Recommendations using FastText
-9. Recommendations using Glove
-10. Recommendations using Co-occurrence Matrix
-11. Building a web application using Streamlit
-
----
-
 
 ## Execution Instructions
 
